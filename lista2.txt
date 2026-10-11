@@ -4,6 +4,7 @@ goiaba
 maçã
 banana
 abacaxi
+uvas
 melancia
 
 essa é a minha lista de compras
