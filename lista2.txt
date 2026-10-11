@@ -1,9 +1,9 @@
 Preciso me lembrar de compra:
 
-goiaba
-maçã
+GOIABA
+MAÇÃ
 banana
-abacaxi
+ABACAXI
 melancia
 
 essa é a minha lista de compras
